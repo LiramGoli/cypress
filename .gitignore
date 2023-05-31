@@ -1,3 +1,7 @@
 node_modules
 .cypress/screenshot
 .cypress/videos
+.config.js
+config.js
+cypress.json
+.cypress.json
